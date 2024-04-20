@@ -7,7 +7,7 @@ This is a website created for a school project. This is not mobile responsive
 
 ## A. Tech Used: ## 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
+<img src="https://skillicons.dev/icons?i=html,css" /><br>
 
 ## B. Contact Me: ## 
 
